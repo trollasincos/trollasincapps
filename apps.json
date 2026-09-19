@@ -6,12 +6,12 @@
     "package": "com.trollasinc.store",
     "version": "1.0",
     "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/app-release.apk"
-  }
+  },
   {
     "name": "Info",
     "icon": "https://trollasincos.github.io/trollasincapps/icons/info.png",
-    "description": "Get info of your devive",
-    "package": "com.trollasinc.store",
+    "description": "Get info of your device",
+    "package": "com.trollasinc.info",
     "version": "1.0",
     "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/app-release.apk"
   }
