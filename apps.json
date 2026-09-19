@@ -3,7 +3,7 @@
     "name": "Store",
     "icon": "https://trollasincos.github.io/trollasincapps/icons/store.png",
     "description": "Download Trollas. Inc. apps directly from GitHub — free, fast, and with no ads.",
-    "package": "com.trollasinc.store"
+    "package": "com.trollasinc.store",
     "version": "1.0.0",
     "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/app-debug.apk"
   }
