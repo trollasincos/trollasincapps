@@ -5,7 +5,7 @@
     "description": "Download Trollas. Inc. apps directly from GitHub — free, fast, and with no ads.",
     "package": "com.trollasinc.store",
     "version": "1.1",
-    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/app-release.apk"
+    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/com.trollasinc.store.v1.1.apk"
   },
   {
     "name": "Info",
@@ -13,6 +13,6 @@
     "description": "Get info of your device",
     "package": "com.trollasinc.info",
     "version": "1.0",
-    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/app-release.apk"
+    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/com.trollasinc.info.v1.0.apk"
   }
 ]
