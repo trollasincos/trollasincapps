@@ -4,15 +4,15 @@
     "icon": "https://trollasincos.github.io/trollasincapps/icons/store.png",
     "description": "Download Trollas. Inc. apps directly from GitHub — free, fast, and with no ads.",
     "package": "com.trollasinc.store",
-    "version": "1.3",
-    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/com.trollasinc.store.v1.3.apk"
+    "version": "1.3.1",
+    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.store/com.trollasinc.store.v1.3.1.apk"
   },
   {
     "name": "Info",
     "icon": "https://trollasincos.github.io/trollasincapps/icons/info.png",
     "description": "Get info of your device",
     "package": "com.trollasinc.info",
-    "version": "2.1",
-    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/com.trollasinc.info.v2.1.apk"
+    "version": "2.1.1",
+    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/com.trollasinc.info.v2.1.1.apk"
   }
 ]
