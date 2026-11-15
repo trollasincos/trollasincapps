@@ -14,5 +14,13 @@
     "package": "com.trollasinc.info",
     "version": "2.1.1",
     "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.info/com.trollasinc.info.v2.1.1.apk"
+  },
+  {
+    "name": "OS",
+    "icon": "https://trollasincos.github.io/trollasincapps/icons/os.png",
+    "description": "OS",
+    "package": "com.trollasinc.os",
+    "version": "1.0",
+    "download": "https://github.com/trollasincos/trollasincapps/releases/download/com.trollasinc.os/com.trollasinc.os.v1.0.apk"
   }
 ]
